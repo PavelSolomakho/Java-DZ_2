@@ -1,0 +1,44 @@
+дек 15, 2022 7:12:21 PM Main main
+INFO: msgSupplier
+дек 15, 2022 7:13:53 PM Main main
+INFO: msgSupplier
+дек 15, 2022 7:13:53 PM Main main
+WARNING: 12333
+дек 15, 2022 7:13:53 PM Main main
+INFO: 9999
+дек 15, 2022 7:20:15 PM Main main
+INFO: msgSupplier
+дек 15, 2022 7:20:15 PM Main main
+WARNING: 12333
+дек 15, 2022 7:20:15 PM Main main
+INFO: 9999
+дек 15, 2022 7:40:23 PM Main main
+INFO: msgSupplier
+дек 15, 2022 7:40:23 PM Main main
+WARNING: 12333
+дек 15, 2022 7:40:23 PM Main main
+INFO: 9999
+дек 15, 2022 7:41:42 PM Main main
+INFO: msgSupplier
+дек 15, 2022 7:41:42 PM Main main
+WARNING: 12333
+дек 15, 2022 7:41:42 PM Main main
+INFO: 9999
+дек 15, 2022 7:42:06 PM Main main
+INFO: msgSupplier
+дек 15, 2022 7:42:06 PM Main main
+WARNING: 12333
+дек 15, 2022 7:42:06 PM Main main
+INFO: 9999
+дек 15, 2022 7:42:33 PM Main main
+INFO: msgSupplier
+дек 15, 2022 7:42:33 PM Main main
+WARNING: 12333
+дек 15, 2022 7:42:33 PM Main main
+INFO: 9999
+дек 15, 2022 7:44:06 PM Main main
+INFO: msgSupplier
+дек 15, 2022 7:44:06 PM Main main
+WARNING: 12333
+дек 15, 2022 7:44:06 PM Main main
+INFO: 9999
